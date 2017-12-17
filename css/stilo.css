@@ -1,0 +1,110 @@
+
+
+#divPie {
+	background:black;
+	color: white;
+	text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 30px; /* choose any height */
+}
+
+
+#navLink ul {
+	list-style-type: none;
+}
+
+#navLink li {
+	display: inline;
+}
+
+#navLink a {
+	color: white;
+	background-color: #gray;
+}
+			
+
+#tabla {
+	float:right ;
+	margin-right: 100px
+	
+}
+
+#formlogin {
+	
+}
+
+#formulario {
+	width: 500px;
+	float: left;
+}
+
+#formularioReg {
+	width: 400px;
+	margin:0 auto;
+     	width: 50%;
+}
+#formD {
+	width: 600px;
+
+}
+
+.tblDatos {
+	border: solid black 1px;
+	width: 100%;
+	padding: 2px;
+	text-align:center;
+}
+
+.tblDatos thead{
+	background: linear-gradient(#f0eded, #121412);
+	color: white;
+}
+
+.tblAdminVehiculo{
+	border: solid black 1px;
+	width: 80%;
+	padding: 2px;
+	text-align:center;
+}
+
+.tblAdminVehiculo thead{
+	background: linear-gradient(#f0eded, #121412);
+	color: white;
+}
+
+.tblUsuarioVehiculo{
+	border: solid black 1px;
+	width: 60%;
+	padding: 2px;
+	text-align:center;
+	margin-left: 2cm;
+}
+
+.tblUsuarioVehiculo thead{
+	background: linear-gradient(#f0eded, #121412);
+	color: white;
+}
+
+.tblAdminUsuario{
+	border: solid black 1px;
+	width: 55%;
+	float: right;
+	padding: 2px;
+	text-align:center;
+}
+
+.tblAdminUsuario thead{
+	background: linear-gradient(#f0eded, #121412);
+	color: white;
+}
+
+.tblDatos img{
+	width: 90px;
+	margin: 2px;
+}
+
+.p{
+	font-size:20px;
+}
